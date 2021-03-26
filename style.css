@@ -1,0 +1,28 @@
+.formularz {
+    
+    width: 316px;
+}
+
+.inputy{
+    margin-top: 20px;
+    border: 1px solid gray;
+    width: 310px;
+    height: 35px;
+    display: block;
+}
+
+.textarea{
+    width: 310px;
+    height: 130px;
+    margin-top: 15px;
+}
+
+.przycisk{
+    margin-top: 15px;
+    border: 1px solid gray;
+    width: 120px;
+    height: 40px;
+    display: block;
+    margin-left: 61.%;
+    margin-bottom: 4px;
+}
